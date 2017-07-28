@@ -1,0 +1,29 @@
+{
+  "name": "qs1210",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy": "node scripts/copy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qs1210/qs1210.github.io.git"
+  },
+  "keywords": [
+    "qs1210",
+    "blog",
+    "gitbook"
+  ],
+  "author": "Qszhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qs1210/qs1210.github.io/issues"
+  },
+  "homepage": "https://github.com/qs1210/qs1210.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "ncp": "^2.0.0",
+    "shelljs": "^0.7.8"
+  }
+}
